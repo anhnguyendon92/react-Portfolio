@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Anh Nguyen",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack Developer ",
+    "image": "Portfolio.png",
+    "bio": "My Name is Anh Nguyen and I recently graduated from University of Washington Coding Boot Camp",
+    "contactmessage": "Message me if you ever need help on Homework or questions about coding.",
+    "email": "anhnguyendon92@gmail.com",
+    "phone": "206-849-94210",
+    "address": {
+      "street": "1524 ReactJS",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98106"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/fujiwara.nguyen/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anh-nguyen92/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/fujiwara_brah/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/anhnguyendon92",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Work great with a team ",
+    "education": [
+      {
+        "school": "University of Washington - Coding Boot Camp",
+        "degree": "Certicate",
+        "graduated": "December 2020",
+        "description": "Graduated top 5 in grades between 40 students"
+      }
+    ],
+    "work": [
+      {
+        "company": "Amazon Flex",
+        "title": "Driver",
+        "years": "November 2020 - Present",
+        "description": "Deliveries"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "Python",
+        "level": "0%"
+      },
+      {
+        "name": "FireBase",
+        "level": "20%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "10%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "PicAFlic",
+        "category": "Project3",
+        "image": "",
+        "url": "https://picaflic.herokuapp.com/"
+      },
+      {
+        "title": "amazon-clone",
+        "category": "HTML, CSS, ReactJs",
+        "image": "amazon-clone.png",
+        "url": "http://localhost:3001/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Hard Worker and reliable ",
+        "user": "Boss"
+      },
+      {
+        "text": "If he puts in 100% effort, he'll be the best at what's hes doing. ",
+        "user": "Grandma"
+      }
+    ]
+  }
+}
